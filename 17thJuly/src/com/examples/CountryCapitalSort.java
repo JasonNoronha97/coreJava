@@ -14,7 +14,8 @@ public class CountryCapitalSort {
 		String searchC = "USA";
 		
 		for (int i = 0; i < countries.length; i++) {
-			if(searchC==)
+			if(searchC==countries[i])
+				System.out.println(capitals[i]);
 		}
 	}
 
