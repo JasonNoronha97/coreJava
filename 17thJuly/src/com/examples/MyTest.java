@@ -5,6 +5,5 @@ import Testing.MySchool;
 public class MyTest {
 	//LabTrainer t1 = new LabTrainer(); error
 	
-	MySchool ms = new MySchool();
-	ms.
+	MySchool msi = new MySchool();
  }
